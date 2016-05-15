@@ -1,0 +1,8 @@
+#header .am-topbar-btn{
+    display: none !important;
+}
+
+#header-setting-nav{
+    float: right;
+    margin: 0;
+}
