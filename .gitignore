@@ -3,6 +3,7 @@ logs
 *.log
 npm-debug.log*
 bin/bundle.js
+typings.json
 
 # Runtime data
 pids
